@@ -11,5 +11,7 @@
     { "id": 2, "sectorId": 2, "hora": "07:30", "estado": "activo", "createdAt": "2026-11-17T05:50:00" },
     { "id": 3, "sectorId": 3, "hora": "08:00", "estado": "activo", "createdAt": "2026-11-17T05:55:00" },
     { "id": 4, "sectorId": 4, "hora": "13:00", "estado": "inactivo", "createdAt": "2026-11-16T17:10:00" }
-  ]
+  ],
+  "nextSectorId": 6,
+  "nextAvisoId": 5
 }
